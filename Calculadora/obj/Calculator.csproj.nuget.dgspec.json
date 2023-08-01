@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\Calculator\\Calculadora\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\Calculator\\Calculadora\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Calculator\\Calculadora\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Aluno\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\Calculator\\Calculadora\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\Calculator\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
